@@ -2,4 +2,4 @@
 points in statistical methodology
 
 ## 1. 参考书籍
--[1](Think Statistics)(https://greenteapress.com/wp/think-stats-2e/)
+-[1][Think Statistics](https://greenteapress.com/wp/think-stats-2e/)
